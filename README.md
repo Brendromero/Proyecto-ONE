@@ -2,7 +2,7 @@
 
 ## Descripción del proyecto
 Este proyecto tiene como objetivo analizar el rendimiento de cuatro tiendas pertenecientes al grupo **Alura Store Latam**, con el fin de determinar cuál de ellas representa la mejor opción para que el Sr. Juan decida vender y comenzar un nuevo emprendimiento.  
-El análisis considera factores como los **ingresos totales**, las **categorías de productos más y menos vendidas**, las **calificaciones promedio de los clientes** y los **costos de envío promedio**.
+El análisis considera factores como los **ingresos totales**, las **categorías de productos más y menos vendidas**, las **calificaciones promedio de los clientes** y los **costos de envío promedio**. 
 
 A través de visualizaciones y análisis estadístico, se busca ofrecer una recomendación basada en datos.
 
