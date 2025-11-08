@@ -1,7 +1,7 @@
 # Análisis de Ventas - Alura Store Latam
 
 ## Descripción del proyecto
-Este proyecto tiene como objetivo analizar el rendimiento de cuatro tiendas pertenecientes al grupo **Alura Store Latam**, con el fin de determinar cuál de ellas representa la mejor opción para que el Sr. Juan establezca una relación comercial.  
+Este proyecto tiene como objetivo analizar el rendimiento de cuatro tiendas pertenecientes al grupo **Alura Store Latam**, con el fin de determinar cuál de ellas representa la mejor opción para que el Sr. Juan decida vender y comenzar un nuevo emprendimiento.  
 El análisis considera factores como los **ingresos totales**, las **categorías de productos más y menos vendidas**, las **calificaciones promedio de los clientes** y los **costos de envío promedio**.
 
 A través de visualizaciones y análisis estadístico, se busca ofrecer una recomendación basada en datos.
@@ -36,7 +36,7 @@ El proyecto se desarrolló en un archivo de Google Colab (`AluraStoreLatam.ipynb
 - **Costo de envío promedio:** La **Tienda 4** tiene el envío más económico, mientras que la **Tienda 1** el más alto.
 
 **Conclusión:**  
-La **Tienda 2** es la más conveniente para el Sr. Juan, ya que presenta buenos ingresos, con poca diferencia con La Tienda 1 y una fuerte posición en el mercado, lo que sugiere una clientela sólida y rentable a largo plazo.
+La **Tienda 1**, **Tienda 2** y **Tienda 3** son la más convenientes para el Sr. Juan, ya que presenta buenos ingresos y una fuerte posición en el mercado, lo que sugiere una clientela sólida y rentable a largo plazo. La **Tienda 4** a diferencia del resto, esta posicionada en el último puesto.
 
 ---
 
